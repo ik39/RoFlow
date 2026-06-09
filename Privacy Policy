@@ -1,0 +1,54 @@
+Privacy Policy
+RoFlow Chrome Extension · Last updated: June 2026
+1. Overview
+
+RoFlow is a Chrome extension. We take your privacy seriously. This policy explains what data the Extension accesses, how it is used, and where it is stored.
+
+2. Data we collect
+
+RoFlow collects and stores the following data locally in your browser using Chrome's storage API:
+
+Your Roblox username and user ID (if you choose to link your account)
+OAuth access and refresh tokens from Roblox (stored locally, never sent to our servers)
+Your watchlist and alert preferences
+Cached market data from Rolimons
+Extension settings
+
+We do not operate any backend server. No data is transmitted to or stored on any server we control.
+
+3. Data we do not collect
+Your Roblox password — we use OAuth, no password is ever accessed
+Browsing history
+Personal information beyond your Roblox public profile
+Payment or Robux balance information
+Any analytics or telemetry data
+4. Third-party API requests
+
+When you use RoFlow, your browser makes requests directly to:
+
+Rolimons (rolimons.com) — for market data and price history
+Roblox (roblox.com and its subdomains) — for user info, inventory, and trade data
+
+These requests are made from your browser directly. Your IP address and request data are subject to Rolimons' and Roblox's own privacy policies.
+
+5. Permissions used
+storage — to save your settings, watchlist, and cached data locally
+identity — to launch the Roblox OAuth login flow via Chrome's identity API
+alarms — to periodically refresh market data in the background
+notifications — to alert you to price spikes or new projected items (only if enabled)
+tabs — to open external links (Rolimons, Roblox catalog) in new tabs
+6. Data retention and deletion
+
+All data is stored locally in your browser. You can delete all RoFlow data at any time by removing the Extension from Chrome, or by clearing the Extension's storage via Chrome's developer tools. Uninstalling the Extension removes all locally stored data.
+
+7. Children's privacy
+
+RoFlow is not directed at children under 13. We do not knowingly collect any information from children under 13. If you believe a child has used the Extension in a way that raises privacy concerns, please contact us.
+
+8. Changes to this policy
+
+We may update this Privacy Policy from time to time. We will update the "Last updated" date at the top of this page when we do. Continued use of the Extension after changes constitutes acceptance of the revised policy.
+
+9. Contact
+
+If you have any questions about this Privacy Policy, contact us at: [lacedkiyo@gmail.com]
