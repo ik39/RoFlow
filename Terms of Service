@@ -1,0 +1,50 @@
+Terms of Service
+RoFlow Chrome Extension · Last updated: June 2026
+1. Acceptance of terms
+
+By installing or using the RoFlow Chrome extension ("Extension"), you agree to these Terms of Service. If you do not agree, do not use the Extension.
+
+2. Description of service
+
+RoFlow is a browser extension that provides Roblox limited-item market data, trade analysis tools, and portfolio tracking. It pulls publicly available data from Rolimons and the Roblox platform.
+
+3. Eligibility
+
+You must be at least 13 years old to use the Extension. By using RoFlow, you represent that you meet this requirement and that your use complies with Roblox's own Terms of Service.
+
+4. Account linking
+
+When you choose to link your Roblox account via OAuth, you authorize RoFlow to:
+
+Read your public profile information (username, display name)
+View your inbound and outbound trades
+
+RoFlow does not store your Roblox password. OAuth tokens are stored locally in your browser and are never transmitted to any third-party server operated by us.
+
+5. Acceptable use
+
+You agree not to use RoFlow to:
+
+Automate trades or interact with Roblox's API in a way that violates Roblox's Terms of Service
+Scrape, resell, or redistribute market data obtained through the Extension
+Attempt to reverse engineer, modify, or redistribute the Extension
+Use the Extension for any unlawful purpose
+6. Disclaimer of warranties
+
+RoFlow is provided "as is" without warranties of any kind. Market data is sourced from third parties (Rolimons, Roblox) and may be inaccurate, delayed, or unavailable. We make no guarantees regarding the accuracy of valuations, demand scores, or price history shown in the Extension.
+
+7. Limitation of liability
+
+To the fullest extent permitted by law, RoFlow and its developer shall not be liable for any indirect, incidental, or consequential damages arising from your use of the Extension, including losses resulting from trades made based on data displayed by RoFlow.
+
+8. Third-party services
+
+RoFlow relies on Roblox and Rolimons APIs. We are not affiliated with, endorsed by, or partnered with Roblox Corporation or Rolimons. Use of those services is governed by their own terms.
+
+9. Changes to these terms
+
+We may update these terms at any time. Continued use of the Extension after changes constitutes acceptance of the revised terms.
+
+10. Contact
+
+Questions? Reach us at: [lacedkiyo@gmail.com]
